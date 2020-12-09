@@ -10,6 +10,7 @@ I'm expecting something to happen
 
 Don't screw up your version control :)
 
+Hello from the new branch!
 
 Hey, will this be a conflict???'''''''
 
